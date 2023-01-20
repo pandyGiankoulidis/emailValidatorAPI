@@ -16,3 +16,6 @@ npm install
 npm start
 ~~~
 This will start the nodejs server in http://localhost:3000
+
+### Live version
+A live running version of the api can be found in rapid API hub [repo](https://rapidapi.com/pantelisgiankoulidis/api/email-validator37)
